@@ -7,7 +7,68 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.title-center{
+  text-align: center;
+}
+
+.card-grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card{
+  width:20%;
+  text-align: center;
+  margin-bottom:2%;
+}
+
+.listActores{
+  margin-top: 2%;
+}
+
+.listActores li{
+  font-size:10px;
+}
+
+.boxRating{
+    font-size: 12px;
+    margin-bottom: 8%;
+}
+
+.boxRating span{
+  margin-right: 6px;
+  cursor: pointer;
+}
+
+.link-route{
+    display: block;
+    margin-bottom: 4%;
+}
+
+.btnFav{
+    display: block;
+    width: 90%;
+    border: none;
+    background: #434369;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.linkFavoritos{
+    background: #d75353;
+    margin: auto;
+    display: block;
+    width: 138px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 2%;
 }
