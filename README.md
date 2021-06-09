@@ -20,5 +20,18 @@ Para correr el proyecto solo ejecutar despues de la instalacion de los modulos:
 
 Que por defecto nos abrira en el navegador el proyecto en la ruta http://localhost:3000/
 
+<b>Del Ejercicio 1: Movies Inc ( Que dejaron como challenge) se realizaron las siguientes historias:</b>
+
+FF-1
+
+FF-2
+
+FF-3
+
+FF-4
+
+FF-5
+
+
 ***Consideraciones
 -Recordar que es necesaria tener instalado NodeJs para poder utilizar el npm
